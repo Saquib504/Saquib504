@@ -65,4 +65,4 @@
 
 ### Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/{mohd-adnaan}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Saquib504}/count.svg)
