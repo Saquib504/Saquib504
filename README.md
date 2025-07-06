@@ -8,18 +8,16 @@
 </p>
 
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=mohd-adnaan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
--->
-
+<h2 align="middle">
 ### 🔭 Computer Engineering Undergraduate Student, ZHCET,AMU
 ### ⚡ Learning and growing every day (1% better each day)
 ### ⁍ **_tempus edax rerum_** — _time, devourer of all things_
+<h2>
 
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=tokyonight" alt="mohd-adnaan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=tokyonight" alt="Saquib504" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Squib504&theme=tokyonight" />
 
