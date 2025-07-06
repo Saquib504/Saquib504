@@ -8,11 +8,10 @@
 </p>
 
 
-<h2 align="middle">
+
 ### 🔭 Computer Engineering Undergraduate Student, ZHCET,AMU
 ### ⚡ Learning and growing every day (1% better each day)
 ### ⁍ **_tempus edax rerum_** — _time, devourer of all things_
-<h2>
 
 <br/>
 
