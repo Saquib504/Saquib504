@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Mohd Saquib <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1nNzRnMmw4dzYwb2kyajZ4Ymo3enc0aGF5bmdvMzFnM3FubTFjZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l5IgYEYR3slHBfkSzD/giphy.gif" height="45"></h2>
+<h2 align="left">Hi I'm Mohd Saquib <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1nNzRnMmw4dzYwb2kyajZ4Ymo3enc0aGF5bmdvMzFnM3FubTFjZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l5IgYEYR3slHBfkSzD/giphy.gif" height="20"></h2>
 
 <p align="center">
   <a href="https://github.com/Saquib504"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
