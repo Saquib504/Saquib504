@@ -16,11 +16,11 @@
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=tokyonight" alt="Saquib504" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=onedark" alt="Saquib504" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Squib504&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Squib504&theme=onedark" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=tokyonight" alt="Saquib504" />
+<img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=onedark" alt="Saquib504" />
 
 <br />
 <br/>
