@@ -29,14 +29,14 @@
     <td>
 
       
- <img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=tokyonight" alt="Saquib504" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=onedark" alt="Saquib504" />
    </td>
 
 
    <td>  
 
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saquib504&theme=tokyonight" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saquib504&theme=onedark" />
      </td>
       </tr>
   </table>
