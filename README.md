@@ -19,7 +19,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=onedark" alt="Saquib504" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Squib504&theme=onedark" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Squib504&theme=onedark" /> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=onedark" alt="Saquib504" />
 
