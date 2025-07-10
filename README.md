@@ -61,6 +61,6 @@
 -->
 
 
-### Visitor Count
+### 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/Saquib504/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=Saquib504&color=blue)
