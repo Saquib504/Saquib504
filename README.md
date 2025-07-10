@@ -63,6 +63,4 @@
 
 ### Visitor Count
 
-![Visitor Count][visitorCnt]
-
-[visitorCnt]: https://profile-counter.glitch.me/{Saquib504}/count.svg
+![Visitor Count](https://profile-counter.glitch.me/Saquib504/count.svg)
