@@ -79,6 +79,16 @@
 
 ---
 
+### 📈 Codolio Progress
+
+<p align="center">
+  <a href="https://codolio.com/profile/saquib_xo">
+    <img src="https://codolio.com/api/profile/progress-graph/saquib_xo" alt="Codolio Progress Graph" height="220"/>
+  </a>
+</p>
+
+---
+
 ### 🏆 Achievements & Badges
 
 <p align="center">
