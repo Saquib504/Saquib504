@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWJzYmNpMWlrZ3d1dHRocW9jc2l1eGxoaXU3Z29iaG90OWRhdm84OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SvjLc4M3yVA8wTiDql/giphy.gif" height="190" width="300">
 </h2>
 
@@ -16,49 +16,73 @@
 
 ---
 
-### 🔭 Computer Engineering Undergraduate Student, ZHCET, AMU  
-### ⚡ Learning and growing every day (1% better each day)  
-### ⁍ **_tempus edax rerum_** — _time, devourer of all things_
+<h2 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="28" width="28">, I'm Saquib!</h2>
+
+<p align="center">
+  <samp>
+    Aspiring Software Engineer | Computer Engineering @ <b>ZHCET, AMU</b> <br>
+    🚀 Evolving 1% every day | 💡 Building and learning in public <br>
+    <i>tempus edax rerum</i> — <b>time, devourer of all things</b>
+  </samp>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### :sparkles: About Me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=tokyonight" alt="Top Langs" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saquib504&theme=tokyonight" alt="GitHub Streaks" />
-
----
-
-### 🧠 Languages I Know
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
+- 🧑‍💻 Passionate about mobile app development and problem solving  
+- :iphone: iOS & Flutter enthusiast | Firebase explorer  
+- 🎯 Currently learning: SwiftUI & Advanced Algorithms  
+- 🤝 Open to collaboration and new opportunities  
+- ☕ Love coffee, code & curiosity
 
 ---
 
-### 🧰 Technologies I Use
+### 📊 My GitHub Stats
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300C8FF.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=tokyonight" alt="Top Langs" height="150"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saquib504&theme=tokyonight" alt="GitHub Streaks" height="150"/>
+</p>
 
 ---
 
-### 👀 Visitor Count
+### 🛠️ Languages & Tools
 
-![Profile views](https://komarev.com/ghpvc/?username=Saquib504&color=0e75b6)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300C8FF.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:saquibwound@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohd-saquib-4557302b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Saquib504"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saquib504&color=0e75b6" alt="Profile views"/>
+</p>
