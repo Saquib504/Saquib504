@@ -21,36 +21,26 @@
 <p align="center">
   <samp>
     Aspiring Software Engineer | Computer Engineering @ <b>ZHCET, AMU</b> <br>
-    🚀 Evolving 1% every day | 💡 Building and learning in public <br>
+    🚀 Leveling up 1% every day | 💡 Building, breaking, and learning in public <br>
     <i>tempus edax rerum</i> — <b>time, devourer of all things</b>
   </samp>
 </p>
 
 ---
 
-### :sparkles: About Me
+### 🧑‍🚀 About Me
 
-- 🧑‍💻 Passionate about mobile app development and problem solving  
-- :iphone: iOS & Flutter enthusiast | Firebase explorer  
-- 🎯 Currently learning: SwiftUI & Advanced Algorithms  
-- 🤝 Open to collaboration and new opportunities  
-- ☕ Love coffee, code & curiosity
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=tokyonight" alt="Top Langs" height="150"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saquib504&theme=tokyonight" alt="GitHub Streaks" height="150"/>
-</p>
+- 🧑‍💻 Passionate about mobile & cross-platform development  
+- 🍎 iOS, Flutter & Firebase enthusiast  
+- 🧠 Always hacking on side projects & exploring new tech  
+- 🎯 Currently learning: SwiftUI, AI/ML basics, and system design  
+- 🤝 Open to collaboration, hackathons, and cool discussions  
+- ☕ Fueled by coffee, code & curiosity  
+- 💬 Ask me about anything — I love sharing what I know!
 
 ---
 
-### 🛠️ Languages & Tools
+### 🚀 My Dev Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
@@ -59,7 +49,6 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -69,6 +58,45 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-%2300C8FF.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib504&layout=compact&hide=html&theme=tokyonight" alt="Top Langs" height="150"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saquib504&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saquib504&theme=tokyonight" alt="GitHub Streaks" height="150"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saquib504&theme=tokyonight" alt="Profile Summary" height="150"/>
+</p>
+
+---
+
+### 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saquib504&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="Trophies" />
+</p>
+
+---
+
+### ⚡ Fun Stuff
+
+- 🌱 **Currently working on:** A personal productivity app & some open source widgets
+- 🎮 **Hobbies:** Gaming, keyboard modding, reading sci-fi, and playing chess
+- ✨ **Random Dev Quote:**  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+---
+
+### 🧩 My Dev Card
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saquib504&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -85,4 +113,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saquib504&color=0e75b6" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square" alt="markdown"/>
+  <img src="https://img.shields.io/badge/Always%20learning-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Always learning"/>
 </p>
