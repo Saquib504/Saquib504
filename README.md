@@ -120,16 +120,6 @@
 - ✨ **Random Dev Quote:**
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:saquibwound@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohd-saquib-4557302b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Saquib504"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/saquib_xo"><img src="https://img.shields.io/badge/Codolio-121212?style=flat&logoColor=white&label=Codolio"/></a>
-</p>
 
 ---
 
