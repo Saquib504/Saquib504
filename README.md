@@ -23,7 +23,7 @@
 
 <p align="center">
   <samp>
-    Aspiring Software Engineer | Computer Engineering @ <b>ZHCET, AMU</b> <br>
+    Aspiring Software Engineer | Computer Engineering @ <b>ZHCET, AMU</b> (2023–2027) · CGPA 8.1<br>
     🚀 Leveling up 1% every day | 💡 Building, breaking, and learning in public <br>
     <i>tempus edax rerum</i> — <b>time, devourer of all things</b>
   </samp>
@@ -33,35 +33,53 @@
 
 ### 🧑‍🚀 About Me
 
-- 🧑‍💻 Passionate about mobile & cross-platform development  
-- 🍎 iOS, Flutter & Firebase enthusiast  
-- 🧠 Always hacking on side projects & exploring new tech  
-- 🎯 Currently learning: SwiftUI, AI/ML basics, and system design  
-- 🤝 Open to collaboration, hackathons, and cool discussions  
-- ☕ Fueled by coffee, code & curiosity  
-- 💬 Ask me about anything — I love sharing what I know!
+- 🔧 I build things across the stack — systems, ML pipelines, web apps, and mobile
+- 🧠 Currently deep in: **competitive programming**, **system design**, and **ML fundamentals**
+- 🤖 Exploring the intersection of OS internals and machine learning (ML-based CPU scheduling!)
+- 📱 Shipped a real-world Flutter app during my internship at **Oli Assistant**
+- 🎯 Targeting **software engineering internships** at top-tier tech companies
+- ☕ Fueled by coffee, curiosity, and an unreasonable number of LeetCode problems
+- 💬 Ask me anything — I love sharing what I know
 
 ---
 
 ### 🚀 My Dev Arsenal
 
+**Languages**
+
 <p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300C8FF.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
+
+**Frameworks & Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 🔨 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 **AI-Powered CPU Scheduler** | Compares FCFS, SJF, Round Robin, CFS & more; predicts burst time using EMMA, SVM, and Random Forest (R²≈0.968) | Python, Flask, scikit-learn, psutil |
+| 🏦 **Banking Management System** | Full-featured CLI banking app with transaction history, account ops, and persistent storage | C++, MySQL |
+| 🌐 **Faculty Database — ZHCET** | Role-based web portal (Admin / Faculty / Student) for faculty record management | Flask, SQLite, HTML/CSS |
+| 📡 **TCP Student Database Server** | POSIX socket server with CSV-backed multi-field query filtering over raw TCP | C++, POSIX Sockets |
+| 📱 **Flutter Internship @ Oli Assistant** | Contributed to a cross-platform productivity app; shipped real features to production | Flutter, Dart, Firebase |
 
 ---
 
@@ -87,20 +105,20 @@
 
 ---
 
-### ⚡ Fun Stuff
-
-- 🌱 **Currently working on:** A personal productivity app & some open source widgets
-- 🎮 **Hobbies:** Gaming, keyboard modding, reading sci-fi, and playing chess
-- ✨ **Random Dev Quote:**  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
----
-
-### 🧩 My Dev Card
+### 🧩 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saquib504&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
+
+---
+
+### ⚡ Fun Stuff
+
+- 🌱 **Currently grinding:** Competitive programming (C++), system design, and ML foundations
+- 🎮 **Hobbies:** Chess, gaming, keyboard modding, sci-fi novels, and casually reading price charts
+- ✨ **Random Dev Quote:**
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 ---
 
